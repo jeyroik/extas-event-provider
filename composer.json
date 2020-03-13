@@ -1,0 +1,14 @@
+{
+  "name": "jeyroik/extas-event-provider",
+  "description": "Event provider for using extas stages",
+  "keywords": ["thephpleague", "league/event", "league", "event", "php", "extas", "provider"],
+  "require": {
+    "jeyroik/extas-foundation": "2.*",
+    "league/event": "2.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "extas\\": "src/"
+    }
+  }
+}
