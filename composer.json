@@ -1,7 +1,7 @@
 {
   "name": "jeyroik/extas-event-provider",
   "description": "Event provider for using extas stages",
-  "keywords": ["thephpleague", "league/event", "league", "event", "php", "extas", "provider"],
+  "keywords": ["thephpleague", "league", "event", "php", "extas", "provider"],
   "require": {
     "jeyroik/extas-foundation": "5.*",
     "league/event": "2.*"
